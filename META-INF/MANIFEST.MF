@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: it.univpm.deit.semedia.musicuri.utils.misc.MusicURILibrary
+ Demo
+
